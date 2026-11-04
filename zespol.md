@@ -1,4 +1,4 @@
-# Zespół
+# Nasza ekipa
 
 Nazwa zespołu: GitBills
 

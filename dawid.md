@@ -4,4 +4,4 @@ Uwielbiam Metin2
 Po nocach programuje w C
 
 ## Hobby
-Metin2, C, poligrafia
+Metin 2, Cpp, grafika cyfrowa

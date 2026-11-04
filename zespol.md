@@ -8,7 +8,7 @@ Dawid
 
 ## Motto
 
-while(git) { print("jest git") }
+while(git) { print("Git jest git") }
 
 ## Ulubione technologie
 llama.cpp

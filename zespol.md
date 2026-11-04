@@ -11,3 +11,4 @@ Dawid
 ???
 
 ## Ulubione technologie
+llama.cpp

@@ -1,6 +1,6 @@
 # Zespół
 
-Nazwa zespołu: The Bills
+Nazwa zespołu: GitBills
 
 ## Skład
 

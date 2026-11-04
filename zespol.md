@@ -4,6 +4,8 @@ Nazwa zespołu: ???
 
 ## Skład
 
+Dawid
+
 ## Motto
 
 ???

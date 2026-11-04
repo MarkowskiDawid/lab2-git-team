@@ -4,3 +4,5 @@ punkt drugi
 b
 punkt trzeci
 c
+Uwaga od Dawid: fajny plan, co jeszcze?
+
